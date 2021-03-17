@@ -21,4 +21,4 @@ You can add the demo bot (QQ:2758720749) for instant querying service.
 
 **This bot is currently unavailable in terms of the change of the ETS official website, so the bot and this repository is waiting for update. **
 
-<img src="./demo.JPG" alt="demo" style="zoom: 33%;" />
+<img src="https://github.com/CzzzzH/ETSHelper/blob/main/demo.jpg" alt="demo" style="zoom: 33%;" />
