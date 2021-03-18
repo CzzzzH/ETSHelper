@@ -7,7 +7,7 @@ A useful QQ chatbot used for querying  GRE/TOEFL test seats in mainland China.
 
 ### Introduction
 
-The bot is based on [Nonebot](https://github.com/howmanybots/onebot) (A asynchronous framework of QQ chatbot) and [Jittor](https://github.com/Jittor/Jittor) (A Just-in-time(JIT) deep learning framework). The former provides communication services for the bot , and the latter helps crack captcha on the website.
+The bot is based on [Nonebot](https://github.com/nonebot/nonebot) (A asynchronous framework of QQ chatbot) and [Jittor](https://github.com/Jittor/Jittor) (A Just-in-time(JIT) deep learning framework). The former provides communication services for the bot , and the latter helps crack captcha on the website.
 
 ### Usage
 
@@ -19,6 +19,6 @@ The bot is based on [Nonebot](https://github.com/howmanybots/onebot) (A asynchro
 ### Demo 
 You can add the demo bot (QQ:2758720749) for instant querying service.
 
-**This bot is currently unavailable in terms of the change of the ETS official website, so the bot and this repository is waiting for update. **
+**This bot is currently unavailable in terms of the change of the ETS official website, so the bot and this repository is waiting for update.**
 
 <img src="https://github.com/CzzzzH/ETSHelper/blob/main/demo.jpg" alt="demo" style="zoom: 33%;" />
